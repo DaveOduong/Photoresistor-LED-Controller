@@ -3,6 +3,8 @@
 ## Description
 
 This Arduino project uses a **photoresistor (LDR)** to detect the amount of light around the sensor and control the blinking speed of the Arduino's built-in LED.
+![Uploading image.png…]()
+
 
 The Arduino continuously reads the light level and adjusts the LED delay dynamically. The current light value and calculated delay are also displayed through the Serial Monitor.
 
